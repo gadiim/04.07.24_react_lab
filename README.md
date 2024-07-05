@@ -26,10 +26,12 @@ Introduction
 При розробці потрібно використовувати функціональні компоненти та синтаксис JSX.
 
 ////////////////////////////////
+
 npm install -g create-react-app
  
 create-react-app --version
  
 create-react-app test
+
 ////////////////////////////////
  
