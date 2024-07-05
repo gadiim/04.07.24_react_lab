@@ -1,0 +1,21 @@
+*, html {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+}
+
+/* header {
+  margin: 0;
+} */
+
+body {
+  margin-top: 100px;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+}
+

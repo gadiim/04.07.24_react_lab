@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-width: 100vw;
+  padding: 10px;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* align-items: center;
+  justify-content: center; */
+  font-size: calc(10px + 2vmin);
+  color: white;
+  position: fixed;
+  top:0;
+  z-index: 100;
+}
+
+.Dish-description {
+  font-size: larger;
+  margin: 30px;
+  padding: 30px;
+}
+
+.Ingredients-container {
+  display: inline-flex;
+  padding: 30px;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 5px;
+  border-color: lightgray;
+}
+
+.Ingredients-container h3{
+  padding: 5px;
+  margin: 25px;
+  text-align: left;
+}
+
+.Dish-img {
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 0 6px 10px 0 gray, 0 8px 20px 5px gray;
+}
+
+.Dish-ingredients li {
+  padding: 5px;
+  margin: 10px;
+  text-align: left;
+  
+}
