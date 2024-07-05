@@ -37,25 +37,21 @@ class Albums extends Component {
           <li className='Album-name'><b>Album Name:</b> "Atomic Dawn"
             <ul>
               <li><b>Release Year:</b>  2278</li>
-              <li><b>Cover Art:</b> A vibrant, retro-futuristic design featuring a rising sun over a metallic cityscape.</li>
             </ul>
           </li>
           <li className='Album-name'><b>Album Name:</b> "Rad Rock"
             <ul>
               <li><b>Release Year:</b>  2281</li>
-              <li><b>Cover Art:</b> A dynamic illustration of the band performing in a post-apocalyptic landscape, with neon lights and radioactive symbols.</li>
             </ul>
           </li>
           <li className='Album-name'><b>Album Name:</b> "Power Surge"
             <ul>
               <li><b>Release Year:</b>  2284</li>
-              <li><b>Cover Art:</b> A dramatic image of an electric storm with lightning bolts illuminating a dark, ruined city.</li>
             </ul>
           </li>
           <li className='Album-name'><b>Album Name:</b> "Metal Hearts"
             <ul>
               <li><b>Release Year:</b>  2287</li>
-              <li><b>Cover Art:</b> A heart made of metal gears and wires, glowing with an inner light, against a backdrop of a starry night sky.</li>
             </ul>
           </li>
         </ul>
