@@ -5,17 +5,21 @@
   sans-serif;
 }
 
-/* header {
-  margin: 0;
-} */
-
 body {
   margin-top: 100px;
   align-items: center;
   justify-content: center;
   font-size: large;
 
-  /* -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; */
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #282c34;
+  color: white;
+  text-align: center;
 }
 
